@@ -1,0 +1,8 @@
+*.o
+*.swp
+darknet
+libdarknet.*
+backup
+predictions.jpg
+kapec.wagi
+obraz.jpg
