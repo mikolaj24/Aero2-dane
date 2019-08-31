@@ -12,4 +12,3 @@ nauka:
 	./darknet detector train cfg/kapec.data cfg/kapec.cfg kapec.wagi
 
 .PHONY: clean
-
