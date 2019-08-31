@@ -17,5 +17,5 @@ File.open(katalog+'.txt', 'w') { |plik|
 
 end
 
-pliktxt('train')
+pliktxt('nauka')
 pliktxt('test')
