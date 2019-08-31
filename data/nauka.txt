@@ -12,6 +12,7 @@
 ./data/nauka/a46.jpg
 ./data/nauka/a39.jpg
 ./data/nauka/a04.jpg
+./data/nauka/a56.jpg
 ./data/nauka/a22.jpg
 ./data/nauka/a44.jpg
 ./data/nauka/a45.jpg
