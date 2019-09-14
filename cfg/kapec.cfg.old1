@@ -1,14 +1,13 @@
 [net]
 # Testing
-#batch=1
-#subdivisions=1
-# Training from yolo3 tiny
 batch=32
-#subdivisions=2
 subdivisions=8
-width=288
-height=96
-#288x64 or 288x96
+# Training
+# batch=64
+# subdivisions=2
+width=416
+height=416
+#channels=3
 channels=1
 momentum=0.9
 decay=0.0005
@@ -135,7 +134,7 @@ activation=linear
 mask = 3,4,5
 anchors = 10,14,  23,27,  37,58,  81,82,  135,169,  344,319
 classes=25
-num=6
+num=8
 jitter=.3
 ignore_thresh = .7
 truth_thresh = 1
@@ -177,7 +176,7 @@ activation=linear
 mask = 0,1,2
 anchors = 10,14,  23,27,  37,58,  81,82,  135,169,  344,319
 classes=25
-num=6
+num=8
 jitter=.3
 ignore_thresh = .7
 truth_thresh = 1
