@@ -5,6 +5,7 @@
 ./data/test/a17.jpg
 ./data/test/a41.jpg
 ./data/test/a55.jpg
+./data/test/a63.jpg
 ./data/test/a28.jpg
 ./data/test/a26.jpg
 ./data/test/a25.jpg
