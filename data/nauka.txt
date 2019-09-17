@@ -1,4 +1,5 @@
 ./data/nauka/a02.jpg
+./data/nauka/a65.jpg
 ./data/nauka/a06.jpg
 ./data/nauka/a42.jpg
 ./data/nauka/a54.jpg
@@ -27,7 +28,7 @@
 ./data/nauka/a08.jpg
 ./data/nauka/a05.jpg
 ./data/nauka/a29.jpg
-./data/nauka/a63.jpg
+./data/nauka/a66.jpg
 ./data/nauka/a36.jpg
 ./data/nauka/o005.jpg
 ./data/nauka/a37.jpg
