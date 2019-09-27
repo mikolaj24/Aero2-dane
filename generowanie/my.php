@@ -65,7 +65,7 @@ class SimpleCaptcha {
 
     /**
      * Max word length (for non-dictionary random text generation)
-     * 
+     *
      * Used for dictionary words indicating the word-length
      * for font-size modification purposes
      */
@@ -192,7 +192,7 @@ class SimpleCaptcha {
 
 
         /** Output */
-        $this->WriteImage();
+        $this->WriteImage($text,"");
         $this->Cleanup();
     }
 
@@ -463,7 +463,9 @@ class SimpleCaptcha {
     /**
      * File generation
      */
-    protected function WriteImage() {
+    protected function WriteImage($a, $b)
+     {
+/*     echo "---[{$a}|{$b}]---"; tu wpisać parametry i generować więcej grafik */
         if ($this->imageFormat == 'png' && function_exists('imagepng')) {
             header("Content-type: image/png");
             imagepng($this->im);
@@ -471,7 +473,7 @@ class SimpleCaptcha {
             header("Content-type: image/jpeg");
             imagejpeg($this->im, null, 80);
         }
-    }
+     }
 
 
 
