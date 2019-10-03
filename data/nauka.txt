@@ -3,6 +3,7 @@
 ./data/nauka/a06.jpg
 ./data/nauka/a42.jpg
 ./data/nauka/a54.jpg
+./data/nauka/o009.jpg
 ./data/nauka/a31.jpg
 ./data/nauka/a61.jpg
 ./data/nauka/a03.jpg
@@ -66,3 +67,4 @@
 ./data/nauka/o002.jpg
 ./data/nauka/o001.jpg
 ./data/nauka/a33.jpg
+./data/nauka/o010.jpg

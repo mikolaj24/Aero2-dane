@@ -15,3 +15,8 @@ Sprawdzenie na konkretnym przykładzie 'obraz.jpg'. To powinien być obraz,
 którego nie ma ani w nauce ani w testowych.
 
 $make test lub samo $make
+
+#Inne strony
+
+zbiór kapci https://github.com/aero2a/kape-
+pojedyńcze litery https://github.com/letarg0/obrazy
