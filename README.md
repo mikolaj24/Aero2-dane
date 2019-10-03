@@ -16,7 +16,7 @@ którego nie ma ani w nauce ani w testowych.
 
 $make test lub samo $make
 
-#Inne strony
+# Inne strony #
 
-zbiór kapci https://github.com/aero2a/kape-
-pojedyńcze litery https://github.com/letarg0/obrazy
+* zbiór kapci https://github.com/aero2a/kape-
+* pojedyńcze litery https://github.com/letarg0/obrazy
