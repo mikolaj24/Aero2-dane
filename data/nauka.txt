@@ -46,6 +46,7 @@
 ./data/nauka/a11.jpg
 ./data/nauka/a53.jpg
 ./data/nauka/o003.jpg
+./data/nauka/a73.jpg
 ./data/nauka/a68.jpg
 ./data/nauka/a60.jpg
 ./data/nauka/a48.jpg
@@ -55,6 +56,7 @@
 ./data/nauka/a47.jpg
 ./data/nauka/a49.jpg
 ./data/nauka/a71.jpg
+./data/nauka/o011.jpg
 ./data/nauka/a24.jpg
 ./data/nauka/a01.jpg
 ./data/nauka/a12.jpg
