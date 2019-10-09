@@ -1,3 +1,4 @@
+./data/test/b03.jpg
 ./data/test/a00.jpg
 ./data/test/a19.jpg
 ./data/test/a76.jpg
@@ -8,6 +9,7 @@
 ./data/test/a55.jpg
 ./data/test/a63.jpg
 ./data/test/a28.jpg
+./data/test/b04.jpg
 ./data/test/a77.jpg
 ./data/test/a67.jpg
 ./data/test/a26.jpg
