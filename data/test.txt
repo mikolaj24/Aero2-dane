@@ -16,3 +16,4 @@
 ./data/test/a75.jpg
 ./data/test/a25.jpg
 ./data/test/a18.jpg
+./data/test/b08.jpg
