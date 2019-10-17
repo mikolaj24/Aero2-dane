@@ -19,3 +19,6 @@
 ./data/test/b08.jpg
 ./data/test/b36.jpg
 ./data/test/b37.jpg
+./data/test/b42.jpg
+./data/test/b43.jpg
+./data/test/b44.jpg

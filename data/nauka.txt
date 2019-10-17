@@ -119,6 +119,12 @@
 ./data/nauka/b39.jpg
 ./data/nauka/b40.jpg
 ./data/nauka/b41.jpg
+./data/nauka/b45.jpg
+./data/nauka/b46.jpg
+./data/nauka/b47.jpg
+./data/nauka/b48.jpg
+./data/nauka/b49.jpg
+./data/nauka/b50.jpg
 ./data/nauka/o001.jpg
 ./data/nauka/o002.jpg
 ./data/nauka/o003.jpg
