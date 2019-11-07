@@ -7,3 +7,7 @@ backup
 predictions.jpg
 kapec.wagi
 *.weights
+data/nauka/z*.jpg
+data/nauka/z*.txt
+data/nauka.txt
+data/test.txt
