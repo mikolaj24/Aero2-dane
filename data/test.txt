@@ -9,10 +9,12 @@
 ./data/test/a55.jpg
 ./data/test/b44.jpg
 ./data/test/a63.jpg
+./data/test/b68.jpg
 ./data/test/a28.jpg
 ./data/test/b42.jpg
 ./data/test/b04.jpg
 ./data/test/a77.jpg
+./data/test/b67.jpg
 ./data/test/a67.jpg
 ./data/test/a26.jpg
 ./data/test/b36.jpg

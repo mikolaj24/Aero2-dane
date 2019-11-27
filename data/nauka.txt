@@ -19,6 +19,7 @@
 ./data/nauka/b34.jpg
 ./data/nauka/a83.jpg
 ./data/nauka/a31.jpg
+./data/nauka/b69.jpg
 ./data/nauka/b47.jpg
 ./data/nauka/a84.jpg
 ./data/nauka/b48.jpg
@@ -77,6 +78,7 @@
 ./data/nauka/a29.jpg
 ./data/nauka/a66.jpg
 ./data/nauka/a92.jpg
+./data/nauka/b71.jpg
 ./data/nauka/b00.jpg
 ./data/nauka/a36.jpg
 ./data/nauka/o005.jpg
@@ -88,6 +90,7 @@
 ./data/nauka/a96.jpg
 ./data/nauka/a21.jpg
 ./data/nauka/b28.jpg
+./data/nauka/b70.jpg
 ./data/nauka/b25.jpg
 ./data/nauka/b26.jpg
 ./data/nauka/a50.jpg
